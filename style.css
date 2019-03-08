@@ -1,0 +1,22 @@
+form {
+    border: solid;
+    border-width: 2px;
+    width: 200px;
+    text-align: center;
+    position: absolute;
+    right: 20px;
+    top: 300px;
+    font-size: 18px;
+    color: purple;
+}
+
+header {
+    text-align: center;
+    border-bottom: dashed;
+    color: purple;
+}
+
+body {
+    background-color: gray;
+}
+
