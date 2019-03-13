@@ -16,7 +16,10 @@ header {
     color: purple;
 }
 
-body {
+body, #buttonSpace, #imageSpace {
     background-color: gray;
 }
 
+img {
+    height: 300px;
+}
